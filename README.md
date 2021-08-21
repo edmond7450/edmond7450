@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a senior front-end and back-end web developer with 7+ years of experience.
-As a full-stack developer, I specialized in everything from back-end to front-end.
+I am a senior back-end and front-end web developer with 7+ years of experience.
+As a full-time freelancer, I specialized in everything from back-end to front-end.
 I provide the best service for my customers.
 And I always do my best and work full-time to satisfy my clients.
 I value trust the most.
@@ -28,3 +28,5 @@ Talented My Skills
 - PHP : Laravel, WordPress, CodeIgnitor
 - Front-End : React.js, Vue.js, Angular, Ext.js, JQuery, Bootstrap, Css  
 - Database : MySQL, MongoDB, SQL Server
+
+Feel free to contact me **[Join on Skype](https://join.skype.com/invite/wrmawI2SvOAI)** and **<a href="mailto:edmond7450@gmail.com">Send Mail</a>**.
