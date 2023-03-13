@@ -28,5 +28,3 @@ Talented My Skills
 - PHP : Laravel, WordPress, CodeIgnitor
 - Front-End : React.js, Vue.js, Angular, Ext.js, JQuery, Bootstrap, Css  
 - Database : MySQL, MongoDB, SQL Server
-
-Feel free to contact me **[Join on Skype](https://join.skype.com/invite/wrmawI2SvOAI)** and **<a href="mailto:edmond7450@gmail.com">Send Mail</a>**.
