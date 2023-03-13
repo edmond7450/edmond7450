@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Edmond7450/Edmond7450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vitalysopin7/vitalysopin7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
