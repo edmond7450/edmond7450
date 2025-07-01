@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a senior back-end and front-end web developer with 7+ years of experience.
+I am a senior back-end and front-end web developer with 9+ years of experience.
 As a full-time freelancer, I specialized in everything from back-end to front-end.
 I provide the best service for my customers.
 And I always do my best to satisfy my clients.
@@ -27,4 +27,4 @@ Talented My Skills
 - CRM, ERP: NetSuite, Odoo, Zoho(Zoho Books, Zoho One, etc.), SugarCRM
 - PHP : Laravel, WordPress, CodeIgnitor
 - Front-End : React.js, Vue.js, Angular, Ext.js, JQuery, Bootstrap, Css  
-- Database : MySQL, MongoDB, SQL Server
+- Database : MySQL, MongoDB, SQL Server, Oracle
